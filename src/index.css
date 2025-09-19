@@ -134,3 +134,13 @@ header > div { width: 100% !important; max-width: 100% !important; }
   }
 }
     
+
+/* Variáveis */
+
+.bg-lightning {
+  background-color: #00F5D4;
+}
+
+.text-power-blue {
+   color: #002366;
+}
